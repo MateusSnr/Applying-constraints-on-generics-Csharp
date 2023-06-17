@@ -1,6 +1,6 @@
 # Applying-constraints-on-generics-Csharp
 
-Case 1:
+Case :
   
       Uma empresa de consultoria deseja avaliar a performance de produtos,
       funcionários, dentre outras coisas. Um dos cálculos que ela precisa é encontrar
